@@ -1,7 +1,7 @@
 version: '3'
 services:
   app:
-    image: gabfreitas/webacademy:latest
+    image: Gabfreitas/webacademy:latest
     container_name: webacademydemo
     restart: always
     ports:
